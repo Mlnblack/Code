@@ -1,4 +1,4 @@
 #忽略数据文件夹
 Hand_pc/SO-HandNet-master/data/ICVL/*
-PoinCloud/pointnet-master/data/*
+PointCloud/pointnet-master/data/*
 Hand_pc/SO-HandNet-master/checkpoints/*
