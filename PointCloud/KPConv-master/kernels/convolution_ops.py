@@ -280,6 +280,39 @@ def KPConv_deformable(query_points,
     # Parameters
     ############
 
+    #####Change####
+
+    indices = pf.knn_indices_general(qrs, pts, K, True)
+
+    nn_pts = tf.gather_nd(pts, indices, name=tag + 'nn_pts')  # (N, P, K, 3)
+    nn_pts_center = tf.expand_dims(qrs, axis=2, name=tag + 'nn_pts_center')  # (N, P, 1, 3)
+    nn_pts_local = tf.subtract(nn_pts, nn_pts_center, name=tag + 'nn_pts_local')  # (N, P, K, 3)
+
+    [N, P, K, dim] = nn_pts_local.shape  # (N, P, K, 3)
+    nn_fts_local = None
+    C_pts_fts = 64
+    if with_local:
+        nn_fts_local = dense(nn_pts_local, C_pts_fts // 2, is_training, tag + 'nn_fts_from_pts_0', bn_decay=bn_decay)
+        nn_fts_local = dense(nn_fts_local, C_pts_fts, is_training, tag + 'nn_fts_from_pts', bn_decay=bn_decay)
+    else:
+        nn_fts_local = nn_pts_local
+
+    if fts_prev is not None:
+        fts_prev = tf.gather_nd(fts_prev, indices, name=tag + 'fts_prev')  # (N, P, K, 3)
+        pts_X_0 = tf.concat([nn_fts_local, fts_prev], axis=-1)
+    else:
+        pts_X_0 = nn_fts_local
+
+    s = int(K.value / D)  # no. of divisions
+    feat_max = tf.layers.max_pooling2d(pts_X_0, [1, s], strides=[1, s], padding='valid', name=tag + 'maxpool_0')
+
+    fts_X = conv2d(feat_max, C, name=tag + 'conv', is_training=is_training, kernel_size=[1, feat_max.shape[-2].value])
+
+    fts_X = tf.squeeze(fts_X, axis=-2)
+
+    ###Change####
+
+
     # Radius of the initial positions of the kernel points
     K_radius = 1.5 * KP_extent
 

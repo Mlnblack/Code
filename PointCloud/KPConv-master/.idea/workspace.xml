@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b5270ea-9bf6-4780-b62d-1b281e633245" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kernel_points.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kernels/kernel_points.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="convolution_ops.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kernels/convolution_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="312" column="17" lean-forward="false" selection-start-line="312" selection-start-column="17" selection-end-line="312" selection-end-column="17" />
+              <folding>
+                <element signature="e#657#675#0" expanded="true" />
+                <element signature="e#1668#2715#0" expanded="false" />
+                <element signature="e#2961#3325#0" expanded="false" />
+                <element signature="e#6124#9532#0" expanded="false" />
+                <element signature="e#15973#20805#0" expanded="false" />
+                <element signature="e#21420#25913#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="network_blocks.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/network_blocks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6996">
+              <caret line="1126" column="41" lean-forward="false" selection-start-line="1126" selection-start-column="33" selection-end-line="1126" selection-end-column="41" />
+              <folding>
+                <element signature="e#698#716#0" expanded="true" />
+                <element signature="e#992#1244#0" expanded="false" />
+                <element signature="e#1394#1996#0" expanded="false" />
+                <element signature="e#2030#2593#0" expanded="false" />
+                <element signature="e#3453#4269#0" expanded="false" />
+                <element signature="e#4387#5328#0" expanded="false" />
+                <element signature="e#5405#5965#0" expanded="false" />
+                <element signature="e#6009#6066#0" expanded="false" />
+                <element signature="e#6343#6704#0" expanded="false" />
+                <element signature="e#6790#7383#0" expanded="false" />
+                <element signature="e#7477#8078#0" expanded="false" />
+                <element signature="e#8164#9908#0" expanded="false" />
+                <element signature="e#9995#11825#0" expanded="false" />
+                <element signature="e#11918#13799#0" expanded="false" />
+                <element signature="e#13897#15804#0" expanded="false" />
+                <element signature="e#15904#19403#0" expanded="false" />
+                <element signature="e#19498#21561#0" expanded="false" />
+                <element signature="e#21662#23776#0" expanded="false" />
+                <element signature="e#23882#26022#0" expanded="false" />
+                <element signature="e#26130#29857#0" expanded="false" />
+                <element signature="e#29940#31162#0" expanded="false" />
+                <element signature="e#31250#31442#0" expanded="false" />
+                <element signature="e#31536#32442#0" expanded="false" />
+                <element signature="e#32537#33149#0" expanded="false" />
+                <element signature="e#33245#35265#0" expanded="false" />
+                <element signature="e#35361#35600#0" expanded="false" />
+                <element signature="e#41463#42224#0" expanded="false" />
+                <element signature="e#42287#43090#0" expanded="false" />
+                <element signature="e#43174#44443#0" expanded="false" />
+                <element signature="e#44492#44880#0" expanded="false" />
+                <element signature="e#44948#45660#0" expanded="false" />
+                <element signature="e#45734#46432#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KPFCNN_model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/KPFCNN_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2486">
+              <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="34" />
+              <folding>
+                <element signature="e#675#698#0" expanded="true" />
+                <element signature="e#7063#11847#0" expanded="false" />
+                <element signature="e#11888#11922#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="trainer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/trainer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="364" column="53" lean-forward="true" selection-start-line="364" selection-start-column="53" selection-end-line="364" selection-end-column="53" />
+              <folding>
+                <element signature="e#697#720#0" expanded="true" />
+                <element signature="e#1435#3366#0" expanded="false" />
+                <element signature="e#3412#7363#0" expanded="false" />
+                <element signature="e#15560#19809#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="training_ShapeNetPart.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training_ShapeNetPart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="222" column="0" lean-forward="true" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+              <folding>
+                <element signature="e#717#728#0" expanded="true" />
+                <element signature="e#1170#4544#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeNetPart.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/ShapeNetPart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9">
+              <caret line="455" column="39" lean-forward="false" selection-start-line="455" selection-start-column="39" selection-end-line="455" selection-end-column="39" />
+              <folding>
+                <element signature="e#694#717#0" expanded="true" />
+                <element signature="e#1336#2312#0" expanded="false" />
+                <element signature="e#5408#9390#0" expanded="false" />
+                <element signature="e#9461#17582#0" expanded="false" />
+                <element signature="e#18147#21083#0" expanded="false" />
+                <element signature="e#21140#22991#0" expanded="false" />
+                <element signature="e#23805#28630#0" expanded="false" />
+                <element signature="e#28828#30699#0" expanded="false" />
+                <element signature="e#30756#31560#0" expanded="false" />
+                <element signature="e#31618#35017#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/datasets/common.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="550" column="83" lean-forward="false" selection-start-line="550" selection-start-column="83" selection-end-line="550" selection-end-column="83" />
+              <folding>
+                <element signature="e#1494#2467#0" expanded="false" />
+                <element signature="e#3256#4269#0" expanded="false" />
+                <element signature="e#4307#4732#0" expanded="false" />
+                <element signature="e#4973#7020#0" expanded="false" />
+                <element signature="e#7077#7955#0" expanded="false" />
+                <element signature="e#8034#10230#0" expanded="false" />
+                <element signature="e#10322#13077#0" expanded="false" />
+                <element signature="e#13288#13558#0" expanded="false" />
+                <element signature="e#13613#15452#0" expanded="false" />
+                <element signature="e#15510#17224#0" expanded="false" />
+                <element signature="e#17284#17372#0" expanded="false" />
+                <element signature="e#17420#17505#0" expanded="false" />
+                <element signature="e#17694#19818#0" expanded="false" />
+                <element signature="e#19913#23715#0" expanded="false" />
+                <element signature="e#23920#27520#0" expanded="false" />
+                <element signature="e#27578#30493#0" expanded="false" />
+                <element signature="e#30550#33338#0" expanded="false" />
+                <element signature="e#33626#37375#0" expanded="false" />
+                <element signature="e#37745#42874#0" expanded="false" />
+                <element signature="e#43201#47399#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>KP</find>
+      <find>resnetb</find>
+      <find>architecture</find>
+      <find>conv_ops</find>
+      <find>KPConv</find>
+      <find>ML:\</find>
+      <find>KPF</find>
+      <find>Kernel</find>
+      <find>KernelP</find>
+      <find>model</find>
+      <find>flat</find>
+      <find>network</find>
+      <find>check_debug_input</find>
+      <find>output_types</find>
+      <find>flat_inputs</find>
+      <find>calibrate_neighbors</find>
+      <find>sess.run</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/kernels/convolution_ops.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="868" />
+    <option name="y" value="61" />
+    <option name="width" value="1021" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shellnet-master" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b5270ea-9bf6-4780-b62d-1b281e633245" name="Default" comment="" />
+      <created>1614133359914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614133359914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="868" y="61" width="1021" height="987" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19303483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24975124" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1556064" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/kernels/kernel_points.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/convolution_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4708">
+          <caret line="326" column="23" lean-forward="true" selection-start-line="326" selection-start-column="23" selection-end-line="326" selection-end-column="23" />
+          <folding>
+            <element signature="e#657#675#0" expanded="true" />
+            <element signature="e#1668#2715#0" expanded="false" />
+            <element signature="e#2961#3325#0" expanded="false" />
+            <element signature="e#6124#9532#0" expanded="false" />
+            <element signature="e#15973#20805#0" expanded="false" />
+            <element signature="e#21420#25913#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/KPFCNN_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="e#675#698#0" expanded="true" />
+            <element signature="e#7063#11847#0" expanded="false" />
+            <element signature="e#11888#11922#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/network_blocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6996">
+          <caret line="1126" column="41" lean-forward="false" selection-start-line="1126" selection-start-column="33" selection-end-line="1126" selection-end-column="41" />
+          <folding>
+            <element signature="e#698#716#0" expanded="true" />
+            <element signature="e#992#1244#0" expanded="false" />
+            <element signature="e#1394#1996#0" expanded="false" />
+            <element signature="e#2030#2593#0" expanded="false" />
+            <element signature="e#3453#4269#0" expanded="false" />
+            <element signature="e#4387#5328#0" expanded="false" />
+            <element signature="e#5405#5965#0" expanded="false" />
+            <element signature="e#6009#6066#0" expanded="false" />
+            <element signature="e#6343#6704#0" expanded="false" />
+            <element signature="e#6790#7383#0" expanded="false" />
+            <element signature="e#7477#8078#0" expanded="false" />
+            <element signature="e#8164#9908#0" expanded="false" />
+            <element signature="e#9995#11825#0" expanded="false" />
+            <element signature="e#11918#13799#0" expanded="false" />
+            <element signature="e#13897#15804#0" expanded="false" />
+            <element signature="e#15904#19403#0" expanded="false" />
+            <element signature="e#19498#21561#0" expanded="false" />
+            <element signature="e#21662#23776#0" expanded="false" />
+            <element signature="e#23882#26022#0" expanded="false" />
+            <element signature="e#26130#29857#0" expanded="false" />
+            <element signature="e#29940#31162#0" expanded="false" />
+            <element signature="e#31250#31442#0" expanded="false" />
+            <element signature="e#31536#32442#0" expanded="false" />
+            <element signature="e#32537#33149#0" expanded="false" />
+            <element signature="e#33245#35265#0" expanded="false" />
+            <element signature="e#35361#35600#0" expanded="false" />
+            <element signature="e#41463#42224#0" expanded="false" />
+            <element signature="e#42287#43090#0" expanded="false" />
+            <element signature="e#43174#44443#0" expanded="false" />
+            <element signature="e#44492#44880#0" expanded="false" />
+            <element signature="e#44948#45660#0" expanded="false" />
+            <element signature="e#45734#46432#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="104" column="35" lean-forward="false" selection-start-line="104" selection-start-column="35" selection-end-line="104" selection-end-column="35" />
+          <folding>
+            <element signature="e#697#720#0" expanded="true" />
+            <element signature="e#1435#3366#0" expanded="false" />
+            <element signature="e#3412#7363#0" expanded="false" />
+            <element signature="e#15560#19809#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_ShapeNetPart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="209" column="59" lean-forward="false" selection-start-line="209" selection-start-column="59" selection-end-line="209" selection-end-column="59" />
+          <folding>
+            <element signature="e#717#728#0" expanded="true" />
+            <element signature="e#1170#4544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/ShapeNetPart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3608">
+          <caret line="455" column="39" lean-forward="false" selection-start-line="455" selection-start-column="39" selection-end-line="455" selection-end-column="39" />
+          <folding>
+            <element signature="e#694#717#0" expanded="true" />
+            <element signature="e#1336#2312#0" expanded="false" />
+            <element signature="e#5408#9390#0" expanded="false" />
+            <element signature="e#9461#17582#0" expanded="false" />
+            <element signature="e#18147#21083#0" expanded="false" />
+            <element signature="e#21140#22991#0" expanded="false" />
+            <element signature="e#23805#28630#0" expanded="false" />
+            <element signature="e#28828#30699#0" expanded="false" />
+            <element signature="e#30756#31560#0" expanded="false" />
+            <element signature="e#31618#35017#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3542">
+          <caret line="718" column="56" lean-forward="true" selection-start-line="718" selection-start-column="26" selection-end-line="718" selection-end-column="56" />
+          <folding>
+            <element signature="e#1494#2467#0" expanded="false" />
+            <element signature="e#3256#4269#0" expanded="false" />
+            <element signature="e#4307#4732#0" expanded="false" />
+            <element signature="e#4973#7020#0" expanded="false" />
+            <element signature="e#7077#7955#0" expanded="false" />
+            <element signature="e#8034#10230#0" expanded="false" />
+            <element signature="e#10322#13077#0" expanded="false" />
+            <element signature="e#13288#13558#0" expanded="false" />
+            <element signature="e#13613#15452#0" expanded="false" />
+            <element signature="e#15510#17224#0" expanded="false" />
+            <element signature="e#17284#17372#0" expanded="false" />
+            <element signature="e#17420#17505#0" expanded="false" />
+            <element signature="e#17694#19818#0" expanded="false" />
+            <element signature="e#19913#23715#0" expanded="false" />
+            <element signature="e#23920#27520#0" expanded="false" />
+            <element signature="e#27578#30493#0" expanded="false" />
+            <element signature="e#30550#33338#0" expanded="false" />
+            <element signature="e#33626#37375#0" expanded="false" />
+            <element signature="e#37745#42874#0" expanded="false" />
+            <element signature="e#43201#47399#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_ModelNet40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1570">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/KPCNN_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="32" column="95" lean-forward="true" selection-start-line="32" selection-start-column="95" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/network_blocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6996">
+          <caret line="1126" column="41" lean-forward="false" selection-start-line="1126" selection-start-column="33" selection-end-line="1126" selection-end-column="41" />
+          <folding>
+            <element signature="e#698#716#0" expanded="true" />
+            <element signature="e#992#1244#0" expanded="false" />
+            <element signature="e#1394#1996#0" expanded="false" />
+            <element signature="e#2030#2593#0" expanded="false" />
+            <element signature="e#3453#4269#0" expanded="false" />
+            <element signature="e#4387#5328#0" expanded="false" />
+            <element signature="e#5405#5965#0" expanded="false" />
+            <element signature="e#6009#6066#0" expanded="false" />
+            <element signature="e#6343#6704#0" expanded="false" />
+            <element signature="e#6790#7383#0" expanded="false" />
+            <element signature="e#7477#8078#0" expanded="false" />
+            <element signature="e#8164#9908#0" expanded="false" />
+            <element signature="e#9995#11825#0" expanded="false" />
+            <element signature="e#11918#13799#0" expanded="false" />
+            <element signature="e#13897#15804#0" expanded="false" />
+            <element signature="e#15904#19403#0" expanded="false" />
+            <element signature="e#19498#21561#0" expanded="false" />
+            <element signature="e#21662#23776#0" expanded="false" />
+            <element signature="e#23882#26022#0" expanded="false" />
+            <element signature="e#26130#29857#0" expanded="false" />
+            <element signature="e#29940#31162#0" expanded="false" />
+            <element signature="e#31250#31442#0" expanded="false" />
+            <element signature="e#31536#32442#0" expanded="false" />
+            <element signature="e#32537#33149#0" expanded="false" />
+            <element signature="e#33245#35265#0" expanded="false" />
+            <element signature="e#35361#35600#0" expanded="false" />
+            <element signature="e#41463#42224#0" expanded="false" />
+            <element signature="e#42287#43090#0" expanded="false" />
+            <element signature="e#43174#44443#0" expanded="false" />
+            <element signature="e#44492#44880#0" expanded="false" />
+            <element signature="e#44948#45660#0" expanded="false" />
+            <element signature="e#45734#46432#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/ModelNet40.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14564">
+          <caret line="698" column="25" lean-forward="false" selection-start-line="698" selection-start-column="8" selection-end-line="698" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/kernel_points.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/KPFCNN_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2486">
+          <caret line="45" column="34" lean-forward="false" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="34" />
+          <folding>
+            <element signature="e#675#698#0" expanded="true" />
+            <element signature="e#7063#11847#0" expanded="false" />
+            <element signature="e#11888#11922#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="550" column="83" lean-forward="false" selection-start-line="550" selection-start-column="83" selection-end-line="550" selection-end-column="83" />
+          <folding>
+            <element signature="e#1494#2467#0" expanded="false" />
+            <element signature="e#3256#4269#0" expanded="false" />
+            <element signature="e#4307#4732#0" expanded="false" />
+            <element signature="e#4973#7020#0" expanded="false" />
+            <element signature="e#7077#7955#0" expanded="false" />
+            <element signature="e#8034#10230#0" expanded="false" />
+            <element signature="e#10322#13077#0" expanded="false" />
+            <element signature="e#13288#13558#0" expanded="false" />
+            <element signature="e#13613#15452#0" expanded="false" />
+            <element signature="e#15510#17224#0" expanded="false" />
+            <element signature="e#17284#17372#0" expanded="false" />
+            <element signature="e#17420#17505#0" expanded="false" />
+            <element signature="e#17694#19818#0" expanded="false" />
+            <element signature="e#19913#23715#0" expanded="false" />
+            <element signature="e#23920#27520#0" expanded="false" />
+            <element signature="e#27578#30493#0" expanded="false" />
+            <element signature="e#30550#33338#0" expanded="false" />
+            <element signature="e#33626#37375#0" expanded="false" />
+            <element signature="e#37745#42874#0" expanded="false" />
+            <element signature="e#43201#47399#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/ShapeNetPart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="455" column="39" lean-forward="false" selection-start-line="455" selection-start-column="39" selection-end-line="455" selection-end-column="39" />
+          <folding>
+            <element signature="e#694#717#0" expanded="true" />
+            <element signature="e#1336#2312#0" expanded="false" />
+            <element signature="e#5408#9390#0" expanded="false" />
+            <element signature="e#9461#17582#0" expanded="false" />
+            <element signature="e#18147#21083#0" expanded="false" />
+            <element signature="e#21140#22991#0" expanded="false" />
+            <element signature="e#23805#28630#0" expanded="false" />
+            <element signature="e#28828#30699#0" expanded="false" />
+            <element signature="e#30756#31560#0" expanded="false" />
+            <element signature="e#31618#35017#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training_ShapeNetPart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="222" column="0" lean-forward="true" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+          <folding>
+            <element signature="e#717#728#0" expanded="true" />
+            <element signature="e#1170#4544#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="364" column="53" lean-forward="true" selection-start-line="364" selection-start-column="53" selection-end-line="364" selection-end-column="53" />
+          <folding>
+            <element signature="e#697#720#0" expanded="true" />
+            <element signature="e#1435#3366#0" expanded="false" />
+            <element signature="e#3412#7363#0" expanded="false" />
+            <element signature="e#15560#19809#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kernels/convolution_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="312" column="17" lean-forward="false" selection-start-line="312" selection-start-column="17" selection-end-line="312" selection-end-column="17" />
+          <folding>
+            <element signature="e#657#675#0" expanded="true" />
+            <element signature="e#1668#2715#0" expanded="false" />
+            <element signature="e#2961#3325#0" expanded="false" />
+            <element signature="e#6124#9532#0" expanded="false" />
+            <element signature="e#15973#20805#0" expanded="false" />
+            <element signature="e#21420#25913#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

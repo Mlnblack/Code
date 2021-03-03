@@ -35,7 +35,7 @@ def main():
     parser.add_argument('--load_ckpt', '-l', help='Path to a check point file for load')
     parser.add_argument('--save_folder', '-s', default='log/seg', help='Path to folder for saving check points and summary')
     parser.add_argument('--model', '-m', default='shellconv', help='Model to use')
-    parser.add_argument('--setting', '-x', default='seg_s3dis', help='Setting to use')
+    parser.add_argument('--setting', '-x',  ', help='Setting to use')
     parser.add_argument('--log', help='Log to FILE in save folder; use - for stdout (default is log.txt)', metavar='FILE', default='log.txt')
     args = parser.parse_args()
 
